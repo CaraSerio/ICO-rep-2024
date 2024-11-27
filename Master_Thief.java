@@ -1,11 +1,11 @@
 package Master_t;
 import robocode.*;
-//import java.awt.Color;
+import java.awt.Color;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
- * Master_Thief - a robot by (your name here) 
+ * Master_Thief - a robot by (your name here) - VERSÃO 000
  */
 public class Master_Thief extends Robot
 {
@@ -18,7 +18,7 @@ public class Master_Thief extends Robot
 		// After trying out your robot, try uncommenting the import at the top,
 		// and the next line:
 
-		// setColors(Color.red,Color.blue,Color.green); // body,gun,radar
+		 setColors(Color.white,Color.yellow,Color.black); // body,gun,radar
 
 		// Robot main loop
 		while(true) {
