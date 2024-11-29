@@ -1,4 +1,4 @@
-package Master_t;
+package ICO-rep-2024;
 import robocode.*;
 import java.awt.Color;
 
